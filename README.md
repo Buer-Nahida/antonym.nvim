@@ -13,7 +13,7 @@
 
 ```lua
 {
-  "SR-MyStar/antonym.nvim",
+  "Buer-Nahida/antonym.nvim",
   opts = {
     -- ...
   },
@@ -24,7 +24,7 @@ or use Lazy-load feature
 
 ```lua
 {
-  "SR-Mystar/antonym.nvim",
+  "Buer-Nahida/antonym.nvim",
   lazy = true,
   cmd = "Antonym",
   opts = {
